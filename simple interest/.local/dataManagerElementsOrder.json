@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "t&Sequence_1",
+        "d&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_int",
+        "out_dep"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "s2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outdep&Sequence_1",
+        "outint&Sequence_1",
+        "pnr&Sequence_1",
+        "rate&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
